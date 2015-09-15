@@ -1,0 +1,25 @@
+{
+	"ImportPath": "github.com/housecare/ziptoaddress",
+	"GoVersion": "go1.5",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/negroni",
+			"Comment": "v0.1-70-gc7477ad",
+			"Rev": "c7477ad8e330bef55bf1ebe300cf8aa67c492d1b"
+		},
+		{
+			"ImportPath": "github.com/julienschmidt/httprouter",
+			"Comment": "v1.1-5-g109e267",
+			"Rev": "109e267447e95ad1bb48b758e40dd7453eb7b039"
+		},
+		{
+			"ImportPath": "github.com/levigross/grequests",
+			"Comment": "0.5",
+			"Rev": "e6bafd8673a939706a59ed94b0609d5d3452ee63"
+		},
+		{
+			"ImportPath": "golang.org/x/net/publicsuffix",
+			"Rev": "db8e4de5b2d6653f66aea53094624468caad15d2"
+		}
+	]
+}
